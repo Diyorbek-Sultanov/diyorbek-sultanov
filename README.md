@@ -19,6 +19,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=#29A9EA)](https://t.me/diyorbeksultanov)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B7)](https://www.linkedin.com/in/diyorbek-sultanov-939742264/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diyorbek-sultanov&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diyorbek-sultanov&card_width=200&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diyorbek-sultanov&theme=tokyonight&langs_count=8)]()
