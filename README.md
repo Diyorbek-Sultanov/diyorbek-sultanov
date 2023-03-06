@@ -15,6 +15,6 @@
 
 ### Follow me
 
-![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=AF10AE)
-![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=#29A9EA)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B7)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=AF10AE)](https://www.instagram.com/s.u.l.t.a.n.o.v_00/)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=#29A9EA)](https://t.me/diyorbeksultanov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B7)](https://www.linkedin.com/in/diyorbek-sultanov-939742264/)
