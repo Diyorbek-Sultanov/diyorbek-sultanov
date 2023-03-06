@@ -12,3 +12,9 @@
 ![Sass](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass)
 ![MUI](https://img.shields.io/badge/MUI-000000?style=for-the-badge&logo=mui)
 ![ReactQuery](https://img.shields.io/badge/ReactQuery-000000?style=for-the-badge&logo=reactquery)
+
+### Follow me
+
+![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=AF10AE)
+![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=#29A9EA)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B7)
