@@ -20,3 +20,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B7)](https://www.linkedin.com/in/diyorbek-sultanov-939742264/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diyorbek-sultanov&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diyorbek-sultanov&repo=react-pizza)](https://github.com/Diyorbek-Sultanov/react-pizza)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diyorbek-sultanov&repo=e-commerce)](https://github.com/Diyorbek-Sultanov/e-commerce)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diyorbek-sultanov&langs_count=8)]()
