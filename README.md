@@ -12,6 +12,7 @@
 ![Sass](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass)
 ![MUI](https://img.shields.io/badge/MUI-000000?style=for-the-badge&logo=mui)
 ![ReactQuery](https://img.shields.io/badge/ReactQuery-000000?style=for-the-badge&logo=reactquery)
+![Nextjs](https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=nextjs)
 
 ### Follow me
 
